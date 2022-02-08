@@ -4,6 +4,6 @@ Making use of rolling Volume and rolling max/min to decide whether we want to bu
 
 Run on 23rd Jan 2020:
 
-1 dollar became 1.08 dollars in 20 days(8% gain in 20 days). Sharpe ratio and CAGR are highly inflated
+(Tested on free limited intraday data. 8% gain in 20 days)
 
 Note: Slippage and brokerage cost are not included
